@@ -26,4 +26,5 @@ public class SpringBootConfig {
     public RestTemplate restTemplate() {
         return new RestTemplate();
     }
+    // code added
 }
